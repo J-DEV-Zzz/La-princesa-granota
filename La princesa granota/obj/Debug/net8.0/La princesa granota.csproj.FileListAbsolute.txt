@@ -1,0 +1,31 @@
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.AssemblyInfoInputs.cache
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.AssemblyInfo.cs
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.csproj.CoreCompileInputs.cache
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.exe
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.deps.json
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.runtimeconfig.json
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.pdb
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.Core.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.Desktop.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.MiniAudio.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.OpenGLES.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw3.so
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw3.dylib
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\linux-x64\native\libminiaudio.so
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\osx-x64\native\libminiaudio.dylib
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\win-x64\native\miniaudio.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.csproj.AssemblyReference.cache
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princ.A4E4303D.Up2Date
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\refint\La princesa granota.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.pdb
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.genruntimeconfig.cache
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\obj\Debug\net8.0\ref\La princesa granota.dll
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Imatges\cavaller.png
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Imatges\granota.png
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Imatges\mapa.png
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Imatges\princesa-granota.png
+C:\Users\Joel\RiderProjects\La princesa granota\La princesa granota\bin\Debug\net8.0\Imatges\princesa.png
